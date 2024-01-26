@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Malik-Muhammed/order-summary-component)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://malik-muhammed.github.io/order-summary-component/)
 
 ### Built with
 
